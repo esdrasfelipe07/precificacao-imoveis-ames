@@ -46,13 +46,3 @@ Após a otimização de hiperparâmetros via validação cruzada (Cross-Validati
 * **Pandas & Numpy:** Manipulação de dados.
 * **Matplotlib & Seaborn:** Visualização de dados.
 * **Scikit-Learn:** Construção de pipelines, modelos e métricas de avaliação.
-
-## 📂 Como Executar
-
-1.  Clone este repositório.
-2.  Instale as dependências:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Abra o notebook `Precificacao_Imoveis_Ames.ipynb` no Jupyter ou Google Colab.
-4.  O dataset será baixado automaticamente via `fetch_openml` caso não esteja local.
